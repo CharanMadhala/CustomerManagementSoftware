@@ -1,2 +1,2 @@
 # CustomerManagementSoftware
-ADDA Digital Assessment
+ADDA Theory Digital Assessment
